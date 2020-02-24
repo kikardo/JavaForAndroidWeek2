@@ -1,0 +1,164 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ricar\Downloads\Drawing-ASCII-Art\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\ricar\Downloads\Drawing-ASCII-Art\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\ricar\Downloads\Drawing-ASCII-Art\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\ricar\Downloads\Drawing-ASCII-Art\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml:2:1-20:12
+MERGED from [com.google.android.material:material:1.1.0-alpha02] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\0f1f9a78b50efd24ea681e9f3c51fc5d\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha01] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\cfab5d3599742f9d6ab5fb779dc5b70f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0-alpha02] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\ab4315c68db02cfbe34b75f4aea0fece\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\b2a09eb07d5aae39c08bc2fc0b359473\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\721015dfc49b37bc686b71d55f4a7423\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\6781f4dfecff08f1e5b0c79ced00ae49\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\8c33feac5dd51df6a0f4643bb986fd6d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\7aca425fa0930473da042ec653675ff7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\c7db19bb4ed7591ecd42ad7444a0690f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\b6d23a3adbe4fd2dc1730d045d350188\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\38fa3ab270b93358606662f001f429da\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\317d0728b33a9d863ad2066bf8ff29b8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0-alpha02] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\3c44340a52d84417e17750981cc45288\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\a118bc989c8a3abf23a26f902f18f441\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\4ebf9ddbafd4e829429040173e38db01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\40947eb41e6c829d6aff848bacdaa45a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\d3c67c90c5f44f68eca40a16002b25a9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\66af381ea3d11f0aa3ffe2e0c480e389\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-alpha01] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\644c2e2143d4b716550e546ff66c94ce\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\076ec80455590479bfe91469b7567a0b\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\5ea305b9f4f80d002179a20a29ed90a7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\e282a8ec175e94f58b40f88f0e090d84\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\0c0bce8d8be355856cd46e3548f86ec8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\00c478d117a9ce5fffb0753246f60c6d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\d1cb0d2896aebf330241263f71657058\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\75b7d19e2a05b255092205fcff485a6a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\8b2f7e92e3d4f5fbd32ef8adc967d19d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\f0860c2a4cfda542c90443741320a62c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\ae2bffe9cb60cc831612ce9e04c5db19\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\2b7c0dad34f4c112619973f4151ad6db\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\4118d29853e75eee88bcbcb82dc4da4c\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\ricar\Downloads\Drawing-ASCII-Art\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\ricar\Downloads\Drawing-ASCII-Art\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\ricar\Downloads\Drawing-ASCII-Art\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml:2:1-20:12
+	package
+		ADDED from C:\Users\ricar\Downloads\Drawing-ASCII-Art\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from C:\Users\ricar\Downloads\Drawing-ASCII-Art\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ricar\Downloads\Drawing-ASCII-Art\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\ricar\Downloads\Drawing-ASCII-Art\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ricar\Downloads\Drawing-ASCII-Art\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml:2:1-20:12
+		INJECTED from C:\Users\ricar\Downloads\Drawing-ASCII-Art\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\ricar\Downloads\Drawing-ASCII-Art\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ricar\Downloads\Drawing-ASCII-Art\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml:2:1-20:12
+		INJECTED from C:\Users\ricar\Downloads\Drawing-ASCII-Art\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ricar\Downloads\Drawing-ASCII-Art\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\ricar\Downloads\Drawing-ASCII-Art\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml:5:5-18:19
+MERGED from [com.google.android.material:material:1.1.0-alpha02] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\0f1f9a78b50efd24ea681e9f3c51fc5d\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0-alpha02] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\0f1f9a78b50efd24ea681e9f3c51fc5d\AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.1.0-alpha01] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\644c2e2143d4b716550e546ff66c94ce\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.1.0-alpha01] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\644c2e2143d4b716550e546ff66c94ce\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\076ec80455590479bfe91469b7567a0b\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\076ec80455590479bfe91469b7567a0b\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-alpha01] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\644c2e2143d4b716550e546ff66c94ce\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\ricar\Downloads\Drawing-ASCII-Art\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from C:\Users\ricar\Downloads\Drawing-ASCII-Art\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from C:\Users\ricar\Downloads\Drawing-ASCII-Art\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\ricar\Downloads\Drawing-ASCII-Art\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\ricar\Downloads\Drawing-ASCII-Art\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml:10:9-40
+activity#mooc.vandy.java4android.diamonds.ui.MainActivity
+ADDED from C:\Users\ricar\Downloads\Drawing-ASCII-Art\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from C:\Users\ricar\Downloads\Drawing-ASCII-Art\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml:11:19-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\ricar\Downloads\Drawing-ASCII-Art\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ricar\Downloads\Drawing-ASCII-Art\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from C:\Users\ricar\Downloads\Drawing-ASCII-Art\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ricar\Downloads\Drawing-ASCII-Art\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from C:\Users\ricar\Downloads\Drawing-ASCII-Art\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from C:\Users\ricar\Downloads\Drawing-ASCII-Art\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ricar\Downloads\Drawing-ASCII-Art\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ricar\Downloads\Drawing-ASCII-Art\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.1.0-alpha02] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\0f1f9a78b50efd24ea681e9f3c51fc5d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0-alpha02] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\0f1f9a78b50efd24ea681e9f3c51fc5d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha01] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\cfab5d3599742f9d6ab5fb779dc5b70f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha01] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\cfab5d3599742f9d6ab5fb779dc5b70f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha02] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\ab4315c68db02cfbe34b75f4aea0fece\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha02] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\ab4315c68db02cfbe34b75f4aea0fece\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\b2a09eb07d5aae39c08bc2fc0b359473\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\b2a09eb07d5aae39c08bc2fc0b359473\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\721015dfc49b37bc686b71d55f4a7423\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\721015dfc49b37bc686b71d55f4a7423\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\6781f4dfecff08f1e5b0c79ced00ae49\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\6781f4dfecff08f1e5b0c79ced00ae49\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\8c33feac5dd51df6a0f4643bb986fd6d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\8c33feac5dd51df6a0f4643bb986fd6d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\7aca425fa0930473da042ec653675ff7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\7aca425fa0930473da042ec653675ff7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\c7db19bb4ed7591ecd42ad7444a0690f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\c7db19bb4ed7591ecd42ad7444a0690f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\b6d23a3adbe4fd2dc1730d045d350188\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\b6d23a3adbe4fd2dc1730d045d350188\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\38fa3ab270b93358606662f001f429da\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\38fa3ab270b93358606662f001f429da\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\317d0728b33a9d863ad2066bf8ff29b8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\317d0728b33a9d863ad2066bf8ff29b8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha02] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\3c44340a52d84417e17750981cc45288\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha02] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\3c44340a52d84417e17750981cc45288\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\a118bc989c8a3abf23a26f902f18f441\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\a118bc989c8a3abf23a26f902f18f441\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\4ebf9ddbafd4e829429040173e38db01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\4ebf9ddbafd4e829429040173e38db01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\40947eb41e6c829d6aff848bacdaa45a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\40947eb41e6c829d6aff848bacdaa45a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\d3c67c90c5f44f68eca40a16002b25a9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\d3c67c90c5f44f68eca40a16002b25a9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\66af381ea3d11f0aa3ffe2e0c480e389\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\66af381ea3d11f0aa3ffe2e0c480e389\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-alpha01] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\644c2e2143d4b716550e546ff66c94ce\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-alpha01] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\644c2e2143d4b716550e546ff66c94ce\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\076ec80455590479bfe91469b7567a0b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\076ec80455590479bfe91469b7567a0b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\5ea305b9f4f80d002179a20a29ed90a7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\5ea305b9f4f80d002179a20a29ed90a7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\e282a8ec175e94f58b40f88f0e090d84\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\e282a8ec175e94f58b40f88f0e090d84\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\0c0bce8d8be355856cd46e3548f86ec8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\0c0bce8d8be355856cd46e3548f86ec8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\00c478d117a9ce5fffb0753246f60c6d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\00c478d117a9ce5fffb0753246f60c6d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\d1cb0d2896aebf330241263f71657058\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\d1cb0d2896aebf330241263f71657058\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\75b7d19e2a05b255092205fcff485a6a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\75b7d19e2a05b255092205fcff485a6a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\8b2f7e92e3d4f5fbd32ef8adc967d19d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\8b2f7e92e3d4f5fbd32ef8adc967d19d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\f0860c2a4cfda542c90443741320a62c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\f0860c2a4cfda542c90443741320a62c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\ae2bffe9cb60cc831612ce9e04c5db19\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\ae2bffe9cb60cc831612ce9e04c5db19\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\2b7c0dad34f4c112619973f4151ad6db\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\2b7c0dad34f4c112619973f4151ad6db\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\4118d29853e75eee88bcbcb82dc4da4c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\ricar\.gradle\caches\transforms-2\files-2.1\4118d29853e75eee88bcbcb82dc4da4c\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\ricar\Downloads\Drawing-ASCII-Art\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ricar\Downloads\Drawing-ASCII-Art\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\ricar\Downloads\Drawing-ASCII-Art\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ricar\Downloads\Drawing-ASCII-Art\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ricar\Downloads\Drawing-ASCII-Art\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ricar\Downloads\Drawing-ASCII-Art\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ricar\Downloads\Drawing-ASCII-Art\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ricar\Downloads\Drawing-ASCII-Art\m4-assignment-diamond-sizes-skeleton\app\src\main\AndroidManifest.xml
